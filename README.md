@@ -15,7 +15,7 @@ Welcome to my GitHub! I love turning raw data into meaningful insights, building
 ---
 
 ## 📂 Featured Projects  
-- **📊 Motorcycle Parts Sales Analysis** – SQL + PostgreSQL to calculate revenue, identify top product lines, and visualize sales trends
+- **📊 Motorcycle Parts Sales Analysis** – PostgreSQL to clean, manipulate, calculate revenue, identify top product lines, and visualize sales trends
 - **🤝 NGO Data Analysis (2010–2023)** – PostgreSQL analysis of donor & donation datasets to identify top-funded and highest-impact projects, revealing funding-impact gaps to guide better strategic decisions 
 - **🚨 Analyzing Crimes in Los Angeles** – Python data analysis on crime patterns, with visual insights into hotspots and trends  
 - **⚽ Soccer Match Hypothesis Testing** – Statistical test on FIFA data to see if women’s games really have more goals than men’s  
