@@ -37,7 +37,7 @@ Welcome to my GitHub! I love turning raw data into meaningful insights, building
 
 ## 📬 Let’s Connect!  
 - 📧 Email: **kianpadua124@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/kianpadua](#) (https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab)  
+- 💼 LinkedIn: [[linkedin.com/in/kianpadua](https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab)](#)  
 - 🖥 GitHub: You’re already here 😉  
 
 ---
