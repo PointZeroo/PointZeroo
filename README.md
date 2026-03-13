@@ -27,16 +27,6 @@ Welcome to my GitHub! I love turning raw data into meaningful insights, building
 
 ---
 
-## 🎯 Current Goals  
-- Build more projects for my portfolio  
-- Level up in **data engineering** (ETL, pipelines, cloud storage)  
-- Explore **BI dashboards** (Power BI)
-- Front-End (React)
-- Back-End (Python)  
-- Sharpen Python & SQL for real-world data problems  
-
----
-
 ## 📬 Let’s Connect!  
 - 📧 Email: **kianpadua124@gmail.com**  
 - 💼 LinkedIn: [[Kian Gabriel Padua](https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab)]
