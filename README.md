@@ -7,10 +7,10 @@ Welcome to my GitHub! I love turning raw data into meaningful insights, building
 ---
 
 ## 🚀 What I Do  
-- 🔎 Techstack: Python, PostgreSQL, Snowflake, PowerBI, Pandas, Docker, AWS, Apache Spark 
+- 🔎 Techstack: Shell, Python, PostgreSQL, Snowflake, PowerBI, Pandas, Docker, AWS, Apache Spark 
 - 🧠 Methodologies: Agile Methodology, Scrum Framework 
 - ⚡ Electronics/IoT: Raspberry Pi, ESP32, Arduino, sensor integration, and system automation
--    Communication Protocol: (OT)Industrial(Modbus TCP/IP & Modbus RTU), (IT)Wireless(LoRaWAN, Zigbee, MQTT)
+-    Communication Protocol: (OT)Industrial(Modbus TCP/IP & Modbus RTU), (IT)Wireless(LoRaWAN, Zigbee, MQTT, REST/HTTP)
 - 🛠 Other Tools: Jupyter Notebook, VS Code, Matlab, Multisim, LTSpice, Glade Layout, AutoCad
 - 📚 Always learning: currently exploring data literacy, six sigma methodologies, and cloud-native solutions 
 
