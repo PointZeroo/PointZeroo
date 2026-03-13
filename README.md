@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kian Gabriel P. Padua  
 
-🎓 Licensed ECE & ECT | 📊 Aspiring Data Analyst / Data Engineer / Data Scientist | 💻 Tech Enthusiast  
+🎓 Licensed ECE & ECT | System Engineer/ Software Engineer / Data Engineer / Data Scientist | Tech Enthusiast  
 
 Welcome to my GitHub! I love turning raw data into meaningful insights, building smart solutions, and exploring how tech can make life easier. Whether it’s crunching numbers with SQL & Python, experimenting with IoT projects, or diving into analytics, I’m always curious and eager to learn.  
 
@@ -30,7 +30,9 @@ Welcome to my GitHub! I love turning raw data into meaningful insights, building
 ## 🎯 Current Goals  
 - Build more projects for my portfolio  
 - Level up in **data engineering** (ETL, pipelines, cloud storage)  
-- Explore **BI dashboards** (Power BI, Tableau, Looker)  
+- Explore **BI dashboards** (Power BI)
+- Front-End (React)
+- Back-End (Python)  
 - Sharpen Python & SQL for real-world data problems  
 
 ---
