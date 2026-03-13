@@ -90,19 +90,19 @@ Designed and implemented a gateway system that collects industrial energy meter 
 
 **System Architecture**
 
-*Industrial Power Meters*
-*│ *
-*│ Modbus TCP / RTU*
-*▼*
-*IoT Gateway (Raspberry Pi)*
-*│*
-*│ Python Data Processing*
-*▼*
-*PostgreSQL Database*
-*│*
-*│ Cloud Sync Service*
-*▼* 
-*Client Cloud Platform (REST API)*
+Industrial Power Meters
+│ 
+│ Modbus TCP / RTU
+▼
+IoT Gateway (Raspberry Pi)
+│
+│ Python Data Processing
+▼
+PostgreSQL Database
+│
+│ Cloud Sync Service
+▼ 
+Client Cloud Platform (REST API)
 
 *Note:⚠️ Source code cannot be shared due to NDA restrictions.*
 
