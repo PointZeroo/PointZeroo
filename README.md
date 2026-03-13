@@ -1,39 +1,163 @@
 # 👋 Hi, I'm Kian Gabriel P. Padua  
 
-🎓 Licensed ECE & ECT | System Engineer/ Software Engineer / Data Engineer / Data Scientist | Tech Enthusiast  
+🎓 Licensed ECE & ECT | IoT System Engineer | Data & Cloud Systems | Software Development 
 
-Welcome to my GitHub! I love turning raw data into meaningful insights, building smart solutions, and exploring how tech can make life easier. Whether it’s crunching numbers with SQL & Python, experimenting with IoT projects, or diving into analytics, I’m always curious and eager to learn.  
+I enjoy building systems that connect the **physical world (devices & sensors)** to the **data world (databases, analytics, and cloud systems)**.
 
----
+My background in **electronics, industrial communication protocols, and software development** allows me to design and build **end-to-end data pipelines — from sensors to insights**.
 
-## 🚀 What I Do  
-- 🔎 Techstack: Shell, Python, PostgreSQL, Snowflake, PowerBI, Pandas, Docker, AWS, Apache Spark 
-- 🧠 Methodologies: Agile Methodology, Scrum Framework 
-- ⚡ Electronics/IoT: Raspberry Pi, ESP32, Arduino, sensor integration, and system automation
--    Communication Protocol: (OT)Industrial(Modbus TCP/IP & Modbus RTU), (IT)Wireless(LoRaWAN, Zigbee, MQTT, REST/HTTP)
-- 🛠 Other Tools: Jupyter Notebook, VS Code, Matlab, Multisim, LTSpice, Glade Layout, AutoCad
-- 📚 Always learning: currently exploring data literacy, six sigma methodologies, and cloud-native solutions 
+Currently exploring **data engineering, analytics, and cloud-based architectures** while building projects involving **IoT, databases, APIs, and automation**.
 
 ---
 
-## 📂 Featured Projects  
-- **📊 Motorcycle Parts Sales Analysis** – PostgreSQL to clean, manipulate, calculate revenue, identify top product lines, and visualize sales trends
-- **🤝 NGO Data Analysis (2010–2023)** – PostgreSQL analysis of donor & donation datasets to identify top-funded and highest-impact projects, revealing funding-impact gaps to guide better strategic decisions 
-- **🚨 Analyzing Crimes in Los Angeles** – Python data analysis on crime patterns, with visual insights into hotspots and trends  
-- **⚽ Soccer Match Hypothesis Testing** – Statistical test on FIFA data to see if women’s games really have more goals than men’s  
-- **🌱 HydroMate (Thesis Project)** – IoT-based hydroponics monitoring & control system with mobile app integration  
- 
+# 🚀 Tech Stack
 
+### 💻 Programming
+- Python
+- SQL
+- Shell / Bash
 
-👉 Check out my repositories to see more of my work!  
+### 🗄 Data & Analytics
+- PostgreSQL
+- Snowflake
+- Pandas
+- Jupyter Notebook
+- Power BI
+- Apache Spark (learning)
+
+### ☁️ Cloud & DevOps
+- Docker
+- Git / GitHub
+- REST APIs
+- Linux systems
+- AWS 
+
+### ⚡ IoT & Embedded Systems
+- Raspberry Pi
+- ESP32
+- Arduino
+- Sensor Integration
+- System Automation
+
+### 🌐 Communication Protocols
+**Industrial (OT)**
+- Modbus TCP/IP
+- Modbus RTU
+
+**IT / Wireless**
+- MQTT
+- REST / HTTP APIs
+- LoRaWAN
+- Zigbee
+
+### 🛠 Engineering Tools
+- MATLAB
+- Multisim
+- LTSpice
+- AutoCAD
+- Glade Layout
+- VS Code
+- Visio
 
 ---
 
-## 📬 Let’s Connect!  
-- 📧 Email: **kianpadua124@gmail.com**  
-- 💼 LinkedIn: [[Kian Gabriel Padua](https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab)]
-- 🖥 GitHub: You’re already here 😉  
+# 🏭 Professional Project Experience
+
+### ⚡ Industrial IoT Energy Monitoring Gateway *(Private Repository – NDA Protected)*
+
+Designed and implemented a gateway system that collects industrial energy meter data and synchronizes it with client cloud platforms.
+
+**Key Responsibilities**
+- Built a **Python-based data pipeline** to collect and process power meter readings.
+- Integrated **industrial devices via Modbus TCP/IP and Modbus RTU**.
+- Implemented **LoRaWAN ingestion** for wireless IoT sensor data.
+- Developed **data synchronization services** that push device readings to external client cloud APIs.
+- Implemented **data validation, error handling, and retry mechanisms** for reliable cloud communication.
+- Managed **PostgreSQL database architecture** for storing and processing telemetry data.
+- Developed REST API integrations for **cloud ingestion endpoints**.
+- Deployed and maintained the system on **Linux-based IoT gateways (Raspberry Pi)**.
+
+**Tech Stack**
+- Python
+- PostgreSQL
+- Linux
+- LoRaWAN
+- Chirpstack (LoRaWAN Network Server)
+- REST APIs
+- Modbus TCP/RTU
+- Raspberry Pi
+- JSON Data Pipelines
+
+**System Architecture**
+
+Industrial Power Meters
+           │
+           │ Modbus TCP / RTU
+           ▼
+IoT Gateway (Raspberry Pi)
+           │
+           │ Python Data Processing
+           ▼
+PostgreSQL Database
+           │
+           │ Cloud Sync Service
+           ▼
+Client Cloud Platform (REST API)
+
+*Note:⚠️ Source code cannot be shared due to NDA restrictions.*
 
 ---
 
-✨ *Always curious. Always learning. Always building.*  
+# 📂 Featured Projects
+
+### 🌱 HydroMate (Thesis Project)
+IoT-based **hydroponics monitoring and control system** featuring:
+- sensor integration
+- automated nutrient monitoring
+- mobile application integration
+
+### 📊 Motorcycle Parts Sales Analysis
+PostgreSQL data analysis project exploring:
+- data cleaning
+- revenue calculations
+- top product lines
+- sales trends visualization
+
+### 🤝 NGO Data Analysis (2010–2023)
+SQL-based analysis of donor and donation datasets to:
+- identify top funded projects
+- measure impact vs funding
+- uncover funding allocation gaps
+
+### 🚨 Crime Analysis in Los Angeles
+Python data analysis project identifying:
+- crime hotspots
+- temporal crime trends
+- visual insights through data exploration
+
+### ⚽ Soccer Match Hypothesis Testing
+Statistical analysis on FIFA match data to test whether **women's matches produce more goals than men's matches**.
+
+---
+
+# 📚 Currently Learning
+
+- Advance Data Engineering
+- Advance Python for Data Pipelines
+- Cloud Architecture and Engineering
+- Machine Learning
+- AI Engineering
+- Automation
+- Six Sigma Methodologies
+
+---
+
+# 📬 Let's Connect
+
+📧 Email: **kianpadua124@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab  
+🖥 GitHub: https://github.com/yourusername  
+
+---
+
+**Always curious. Always learning. Always building.**
