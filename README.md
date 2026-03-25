@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kian Gabriel P. Padua  
+#  Hi, I'm Kian Gabriel P. Padua  
 
-🎓 Licensed ECE & ECT | IoT System Engineer | Data & Cloud Systems | Software Development 
+ Licensed ECE & ECT | IoT System Engineer | Data & Cloud Systems | Software Development 
 
 I enjoy building systems that connect the **physical world (devices & sensors)** to the **data world (databases, analytics, and cloud systems)**.
 
@@ -10,14 +10,14 @@ Currently exploring **data engineering, analytics, and cloud-based architectures
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
-### 💻 Programming
+###  Programming
 - Python
 - SQL
 - Shell / Bash
 
-### 🗄 Data & Analytics
+###  Data & Analytics
 - PostgreSQL
 - Snowflake
 - Pandas
@@ -25,21 +25,21 @@ Currently exploring **data engineering, analytics, and cloud-based architectures
 - Power BI
 - Apache Spark (learning)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 - Docker
 - Git / GitHub
 - REST APIs
 - Linux systems
 - AWS 
 
-### ⚡ IoT & Embedded Systems
+###  IoT & Embedded Systems
 - Raspberry Pi
 - ESP32
 - Arduino
 - Sensor Integration
 - System Automation
 
-### 🌐 Communication Protocols
+###  Communication Protocols
 **Industrial (OT)**
 - Modbus TCP/IP
 - Modbus RTU
@@ -50,7 +50,7 @@ Currently exploring **data engineering, analytics, and cloud-based architectures
 - LoRaWAN
 - Zigbee
 
-### 🛠 Engineering Tools
+###  Engineering Tools
 - MATLAB
 - Multisim
 - LTSpice
@@ -61,9 +61,9 @@ Currently exploring **data engineering, analytics, and cloud-based architectures
 
 ---
 
-# 🏭 Professional Project Experience
+#  Professional Project Experience
 
-### ⚡ Industrial IoT Energy Monitoring Gateway *(Private Repository – NDA Protected)*
+###  Industrial IoT Energy Monitoring Gateway *(Private Repository – NDA Protected)*
 
 Designed and implemented a gateway system that collects industrial energy meter data and synchronizes it with client cloud platforms.
 
@@ -104,43 +104,43 @@ PostgreSQL Database
 ▼ 
 Client Cloud Platform (REST API)
 
-*Note:⚠️ Source code cannot be shared due to NDA restrictions.*
+*Note: Source code cannot be shared due to NDA restrictions.*
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-### 🌱 HydroMate (Thesis Project)
+###  HydroMate (Thesis Project)
 IoT-based **hydroponics monitoring and control system** featuring:
 - sensor integration
 - automated nutrient monitoring
 - mobile application integration
 
-### 📊 Motorcycle Parts Sales Analysis
+###  Motorcycle Parts Sales Analysis
 PostgreSQL data analysis project exploring:
 - data cleaning
 - revenue calculations
 - top product lines
 - sales trends visualization
 
-### 🤝 NGO Data Analysis (2010–2023)
+###  NGO Data Analysis (2010–2023)
 SQL-based analysis of donor and donation datasets to:
 - identify top funded projects
 - measure impact vs funding
 - uncover funding allocation gaps
 
-### 🚨 Crime Analysis in Los Angeles
+###  Crime Analysis in Los Angeles
 Python data analysis project identifying:
 - crime hotspots
 - temporal crime trends
 - visual insights through data exploration
 
-### ⚽ Soccer Match Hypothesis Testing
+###  Soccer Match Hypothesis Testing
 Statistical analysis on FIFA match data to test whether **women's matches produce more goals than men's matches**.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Advance Data Engineering
 - Advance Python for Data Pipelines
@@ -152,11 +152,11 @@ Statistical analysis on FIFA match data to test whether **women's matches produc
 
 ---
 
-# 📬 Let's Connect
+#  Let's Connect
 
-📧 Email: **kianpadua124@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab  
-🖥 GitHub: https://github.com/yourusername  
+ Email: **kianpadua124@gmail.com**  
+ LinkedIn: https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab  
+ GitHub: https://github.com/yourusername  
 
 ---
 
