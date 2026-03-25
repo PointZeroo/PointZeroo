@@ -23,7 +23,7 @@ Currently exploring **data engineering, analytics, and cloud-based architectures
 - Pandas
 - Jupyter Notebook
 - Power BI
-- Apache Spark (learning)
+- Apache Spark
 
 ###  Cloud & DevOps
 - Docker
