@@ -1,6 +1,6 @@
 #  Hi, I'm Kian Gabriel P. Padua  
 
-Licensed ECE & ECT | System Engineer/ Software Engineer / Data Engineer / Data Scientist | Tech Enthusiast
+Licensed ECE & ECT | IoT System Engineer/ Software Engineer / Data Engineer | Tech Enthusiast
 
 I enjoy building systems that connect the **physical world (devices & sensors)** to the **data world (databases, analytics, and cloud systems)**.
 
