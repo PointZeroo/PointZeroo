@@ -6,8 +6,6 @@ I enjoy building systems that connect the **physical world (devices & sensors)**
 
 My background in **electronics, industrial communication protocols, and software development** allows me to design and build **end-to-end data pipelines — from sensors to insights**.
 
-Currently exploring **data engineering, analytics, and cloud-based architectures** while building projects involving **IoT, databases, APIs, and automation**.
-
 ---
 
 #  Tech Stack
@@ -28,6 +26,7 @@ Currently exploring **data engineering, analytics, and cloud-based architectures
 ###  Cloud & DevOps
 - Docker
 - Git / GitHub
+- GraphQL API
 - REST APIs
 - Linux systems
 - AWS 
@@ -49,15 +48,6 @@ Currently exploring **data engineering, analytics, and cloud-based architectures
 - REST / HTTP APIs
 - LoRaWAN
 - Zigbee
-
-###  Engineering Tools
-- MATLAB
-- Multisim
-- LTSpice
-- AutoCAD
-- Glade Layout
-- VS Code
-- Visio
 
 ---
 
@@ -104,7 +94,6 @@ PostgreSQL Database
 ▼ 
 Client Cloud Platform (REST API)
 
-*Note: Source code cannot be shared due to NDA restrictions.*
 
 ---
 
@@ -155,8 +144,7 @@ Statistical analysis on FIFA match data to test whether **women's matches produc
 #  Let's Connect
 
  Email: **kianpadua124@gmail.com**  
- LinkedIn: https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab  
- GitHub: https://github.com/yourusername  
+ LinkedIn: https://www.linkedin.com/in/kian-gabriel-padua-0863ab1ab    
 
 ---
 
